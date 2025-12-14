@@ -1,6 +1,6 @@
 <!-- ================== ITACHI HEADER ================== -->
 <div align="center">
-  <img src="./assets/itachi-sharingan.gif" width="320" alt="Itachi Sharingan"/>
+  <img src="./assets/sharingan.gif" width="320" alt="Itachi Sharingan"/>
 </div>
 
 <br/>
@@ -23,11 +23,11 @@
 <div align="center">
   <img src="./assets/java.png" height="45" alt="Java"/>
   <img width="14"/>
-  <img src="./assets/typescript.png" height="45" alt="TypeScript"/>
+  <img src="./assets/ts-node.png" height="45" alt="TypeScript"/>
   <img width="14"/>
-  <img src="./assets/python.png" height="45" alt="Python"/>
+  <img src="./assets/python.jpg" height="45" alt="Python"/>
   <img width="14"/>
-  <img src="./assets/linux.png" height="45" alt="Linux"/>
+  <img src="./assets/linux.jpg" height="45" alt="Linux"/>
   <img width="14"/>
   <img src="./assets/bash.png" height="45" alt="Bash"/>
   <img width="14"/>
@@ -35,7 +35,7 @@
   <img width="14"/>
   <img src="./assets/docker.png" height="45" alt="Docker"/>
   <img width="14"/>
-  <img src="./assets/kubernetes.png" height="45" alt="Kubernetes"/>
+  <img src="./assets/k8s.png" height="45" alt="Kubernetes"/>
   <img width="14"/>
   <img src="./assets/aws.png" height="45" alt="AWS"/>
 </div>
