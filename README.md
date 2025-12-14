@@ -53,7 +53,7 @@
 
 <!-- ================== CONTRIBUTION SNAKE ================== -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/0xSharkBoy/0xSharkBoy/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/saikrishnasaski/saikrishnasaski/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </div>
 
 <br/>
