@@ -15,7 +15,7 @@
 <!-- ================== STATS ================== -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saikrishnasaski&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=saikrishnasaski&locale=en&mode=daily&theme=discord_old_blurple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikrishnasaski&theme=radical&hide_border=true" height="150" alt="streak graph" />
 </div>
 
 <br/>
