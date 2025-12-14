@@ -1,7 +1,7 @@
 <!-- ================== ITACHI HEADER ================== -->
 <div align="center" style="position: relative; display: inline-block;">
   <div style="width: 320px; height: 320px; background-color: #000; border-radius: 50%; position: absolute; top: 0; left: 50%; transform: translateX(-50%); z-index: 0;"></div>
-  <img src="sharingan.gif" width="250" alt="Itachi Sharingan" style="position: relative; z-index: 1;"/>
+  <img src="./assets/sharingan.gif" width="250" alt="Itachi Sharingan" style="position: relative; z-index: 1;"/>
 </div>
 
 <br/>
