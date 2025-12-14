@@ -21,23 +21,24 @@
 
 <!-- ================== SKILLS ================== -->
 <div align="center">
-  <img src="./assets/java.png" height="45" alt="Java"/>
-  <img width="14"/>
-  <img src="./assets/ts-node.png" height="45" alt="TypeScript"/>
-  <img width="14"/>
-  <img src="./assets/python.jpg" height="45" alt="Python"/>
-  <img width="14"/>
-  <img src="./assets/linux.jpg" height="45" alt="Linux"/>
-  <img width="14"/>
-  <img src="./assets/bash.png" height="45" alt="Bash"/>
-  <img width="14"/>
-  <img src="./assets/kafka.png" height="45" alt="Kafka"/>
-  <img width="14"/>
-  <img src="./assets/docker.png" height="45" alt="Docker"/>
-  <img width="14"/>
-  <img src="./assets/k8s.png" height="45" alt="Kubernetes"/>
-  <img width="14"/>
-  <img src="./assets/aws.png" height="45" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript"  />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="kafka"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="k8s"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws"/>
+  <img width="12"/>
 </div>
 
 <br/>
